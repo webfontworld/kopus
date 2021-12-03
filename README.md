@@ -50,7 +50,7 @@
 <pre>
 @font-face {
     font-family: 'KoPubWorldBatang';
-    font-weight: normal;
+    font-weight: 300;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/KoPubWorldBatangLight.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/KoPubWorldBatangLight.eot?#iefix') format('embedded-opentype'),
@@ -61,7 +61,7 @@
 }
 @font-face {
     font-family: 'KoPubWorldBatang';
-    font-weight: normal;
+    font-weight: 500;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/KoPubWorldBatangMedium.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/KoPubWorldBatangMedium.eot?#iefix') format('embedded-opentype'),
@@ -72,7 +72,7 @@
 }
 @font-face {
     font-family: 'KoPubWorldBatang';
-    font-weight: normal;
+    font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/KoPubWorldBatangBold.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/KoPubWorldBatangBold.eot?#iefix') format('embedded-opentype'),
